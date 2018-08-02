@@ -1,0 +1,33 @@
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+}
+#edgeImg{
+  height: 240px;
+  width: 240px;
+}
+#normImg{
+  height: 240px;
+  width: 240px;
+}
+#wholeImg{
+  height: 240px;
+  width: 240px;
+}
+#tankImg{
+  height: 240px;
+  width: 240px;
+}
+#title{
+  font-size: 40px
+}
+#block{
+  text-align: center;
+  border: solid 2px white;
+  font-size: 18px;
+}
+#intro{
+  font-size: 17px;
+}
+
+
